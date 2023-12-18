@@ -1,0 +1,150 @@
+﻿  main.cpp
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(186,5): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(186,9): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(186,13): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(389,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(389,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(390,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(390,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(446,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(446,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(447,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(447,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,117): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,117): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,117): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,117): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,117): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,90): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,90): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,90): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,90): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,90): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,63): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,63): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,63): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,63): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,63): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,36): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,36): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,36): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,36): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(456,36): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,117): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,117): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,117): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,117): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,117): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,90): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,90): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,90): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,90): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,90): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,63): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,63): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,63): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,63): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,63): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,36): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,36): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,36): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,36): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(457,36): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,117): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,117): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,117): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,117): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,117): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,90): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,90): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,90): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,90): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,90): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,63): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,63): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,63): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,63): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,63): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,36): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,36): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,36): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,36): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(458,36): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,117): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,117): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,117): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,117): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,117): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,90): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,90): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,90): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,90): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,90): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,63): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,63): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,63): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,63): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,63): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,36): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,36): warning C4244:         with
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,36): warning C4244:         [
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,36): warning C4244:             _Ty=double
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(459,36): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\User\source\repos\CompGraphic\КГкурсач\Pyramid.h(580,54): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  КГкурсач.vcxproj -> C:\Users\User\source\repos\CompGraphic\x64\Debug\КГкурсач.exe
